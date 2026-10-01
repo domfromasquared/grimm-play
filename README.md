@@ -4,7 +4,11 @@ A reaper's night in the Quick and the Still — a 2.5D graveyard puzzle-platform
 
 **Play it in your browser: https://domfromasquared.github.io/grimm-play/**
 
-Desktop browser with a keyboard (Chrome, Edge, Firefox or Safari with WebGL 2). The first load is about 60 MB.
+Works in a desktop browser with a keyboard, or on a phone or tablet held sideways (Chrome, Edge, Firefox or Safari with WebGL 2). The first load is about 30 MB.
+
+**On a phone:** ◀ ▶ under your left thumb (slide between them without lifting), JUMP, REAP and FLICK under your right, the manifest and pause at the top. Tap anywhere to resume from pause. On Android, tapping *Begin the night* goes fullscreen; on iPhone, use Share → Add to Home Screen for a fullscreen game.
+
+**With a keyboard:**
 
 | Keys | Action |
 |---|---|
