@@ -6,7 +6,7 @@ A reaper's night in the Quick and the Still — a 2.5D graveyard puzzle-platform
 
 Works in a desktop browser with a keyboard, or on a phone or tablet held sideways (Chrome, Edge, Firefox or Safari with WebGL 2). The first load is about 30 MB.
 
-**On a phone:** ◀ ▶ under your left thumb (slide between them without lifting), JUMP, REAP and FLICK under your right, the manifest and pause at the top. Tap anywhere to resume from pause. On Android, tapping *Begin the night* goes fullscreen; on iPhone, use Share → Add to Home Screen for a fullscreen game.
+**On a phone:** ◀ ▶ under your left thumb (slide between them without lifting), JUMP, REAP and FLICK under your right (and ITEM while you hold a power), the manifest and pause at the top. Tap anywhere to resume from pause. On Android, tapping *Begin the night* goes fullscreen; on iPhone, use Share → Add to Home Screen for a fullscreen game.
 
 **With a keyboard:**
 
@@ -17,8 +17,11 @@ Works in a desktop browser with a keyboard, or on a phone or tablet held sideway
 | `Shift` / `F` | Flicker — swap the world, Quick ⇄ Still |
 | `S` / `↓` on the ground | Slash |
 | `S` / `↓` in the air | Drop Reap |
+| `E` | Use the power you won at the slot machine |
 | `L` | The night's manifest |
 | `Esc` / `P` | Pause |
+
+End a night with 100 chips and the house opens: Grimm's Gamble, a slot machine that pays out powers for the next night (Space pulls, Esc walks away).
 
 Your nights are remembered in this browser's storage.
 
