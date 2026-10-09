@@ -21,7 +21,7 @@ Works in a desktop browser with a keyboard, or on a phone or tablet held sideway
 | `L` | The night's manifest |
 | `Esc` / `P` | Pause |
 
-End a night with 100 chips and the house opens: Grimm's Gamble, a slot machine that pays out powers for the next night (Space pulls, Esc walks away).
+End a night with 100 chips and the house opens: Grimm's Gamble, a slot machine that pays out powers for the next night. Bet 10 to 100 chips a pull — the bigger the bet, the better the odds (↑ ↓ or − + sets the bet, Space pulls, Esc walks away).
 
 Your nights are remembered in this browser's storage.
 
