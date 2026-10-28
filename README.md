@@ -19,13 +19,17 @@ Works in a desktop browser with a keyboard or a gamepad, or on a phone or tablet
 | `S` / `↓` / `K` in the air | Drop Reap |
 | `E` | Use the power you won at the slot machine |
 | `L` | The night's manifest |
-| `Esc` / `P` | Pause |
+| `Esc` / `P` | Pause (its tick boxes mute the music or the sound effects) |
 
 `J` `K` `I` are a one-handed cluster: run with the other hand on `A` `D` or the arrows.
 
 **With a gamepad:** d-pad or left stick to run, A to jump, X or B (or down) to slash and Drop Reap, either shoulder to Flicker, Y for the power, Start to pause, Back for the manifest. Every screen takes the pad, and the controls shown follow whichever you used last.
 
 End a night with 100 chips and the house opens: Grimm's Gamble, a slot machine that pays out powers for the next night. Bet 10 to 100 chips a pull — the bigger the bet, the better the odds (↑ ↓ or − + sets the bet, Space pulls, Esc walks away; on a pad, the d-pad, A and B).
+
+Land on a jack-o'-lantern and it bounces you, again and again; no button needed.
+
+The Sexton's Stair: hauling a winch in one room changes a room later in the night, and some changes carry into the next night (the Sexton's Book). Each night's rooms are new to the last.
 
 Your nights are remembered in this browser's storage.
 
